@@ -1,0 +1,23 @@
+.page1 {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.cifra {
+    display: flex;
+    justify-content: center;
+    color: darkgray;
+    opacity: 0.5;
+    font-size: small;
+    margin-top: 50vh;
+}
+
+.ovo {
+    display: flex;
+    justify-content: end;
+    height: 3.1vh;
+    margin-top: 32vh;
+}
